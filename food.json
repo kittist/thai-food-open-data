@@ -1,6 +1,6 @@
 [
   {
-    "name":  "หมูทอดกระเทียม",
+    "name": "หมูทอดกระเทียม",
     "eng_name": "Pork Garlic Stir Fried",
     "rice": "possible",
     "meat": ["pork"],
@@ -10,11 +10,11 @@
     "contain-nut": "possible",
     "contain-milk": "none",
     "avg_calories": 200,
-    "cuisine": "thai"
+    "cuisine": "Thai"
   },
   {
-    "name":  "ข้าวมันไก่",
-    "eng_name": "Chicken Rice",
+    "name": "ข้าวมันไก่",
+    "eng_name": "Hainanese chicken Rice",
     "rice": "contain",
     "meat": ["chicken"],
     "spicy": false,
@@ -23,11 +23,11 @@
     "contain-nut": "none",
     "contain-milk": "none",
     "avg_calories": 515,
-    "cuisine": "chinese"
+    "cuisine": "Chinese"
   },
-   {
-    "name":  "ข้าวหมูแดง",
-    "eng_name": "BBQ pork Rice",
+  {
+    "name": "ข้าวหมูแดง",
+    "eng_name": "Roasted red pork rice",
     "rice": "contain",
     "meat": ["pork"],
     "spicy": false,
@@ -36,37 +36,37 @@
     "contain-nut": "none",
     "contain-milk": "none",
     "avg_calories": 438,
-    "cuisine": "chinese"
+    "cuisine": "Chinese"
   },
   {
-   "name":  "ข้าวผัดกระเพราไก่",
-   "eng_name": "Holy basil chicken fried Rice",
-   "rice": "contain",
-   "meat": ["chicken"],
-   "spicy": false,
-   "seafood": false,
-   "green_level": "none",
-   "contain-nut": "none",
-   "contain-milk": "none",
-   "avg_calories": 554,
-   "cuisine": "thai"
- },
-  {
-   "name":  "ผัดผักบุ้ง",
-   "eng_name": "Stir Fried Swamp Cabbage",
-   "rice": "possible",
-   "meat": [],
-   "spicy": true,
-   "seafood": false,
-   "green_level": "none",
-   "contain-nut": "contain",
-   "contain-milk": "none",
-   "avg_calories": 210,
-   "cuisine": "chinese"
+    "name": "ข้าวผัดกระเพราไก่",
+    "eng_name": "Holy basil chicken fried Rice",
+    "rice": "contain",
+    "meat": ["chicken"],
+    "spicy": false,
+    "seafood": false,
+    "green_level": "none",
+    "contain-nut": "none",
+    "contain-milk": "none",
+    "avg_calories": 554,
+    "cuisine": "Thai"
   },
   {
-    "name":  "แกงจืดเต้าหู้หมูสับ",
-    "eng_name": "Clear Soup with Bean Curd and Minced Pork",
+    "name": "ผัดผักบุ้ง",
+    "eng_name": "Stir Fried Swamp Cabbage",
+    "rice": "possible",
+    "meat": [],
+    "spicy": true,
+    "seafood": false,
+    "green_level": "none",
+    "contain-nut": "contain",
+    "contain-milk": "none",
+    "avg_calories": 210,
+    "cuisine": "Chinese"
+  },
+  {
+    "name": "แกงจืดเต้าหู้หมูสับ",
+    "eng_name": "Clear Soup with Tofu and Minced Pork",
     "rice": "not-contain",
     "meat": ["pork"],
     "spicy": false,
@@ -74,11 +74,11 @@
     "green_level": "none",
     "contain-nut": "not-contain",
     "contain-milk": "not-contain",
-    "avg_calories": null,
-    "cuisine": "chinese"
+    "avg_calories": 80,
+    "cuisine": "Chinese"
   },
   {
-    "name":  "ผัดไท",
+    "name": "ผัดไท",
     "eng_name": "Pad Thai",
     "rice": "possible",
     "meat": ["shrimp"],
@@ -87,11 +87,11 @@
     "green_level": "none",
     "contain-nut": "possible",
     "contain-milk": "possible",
-    "avg_calories": null,
-    "cuisine": "thai"
+    "avg_calories": 490,
+    "cuisine": "Thai"
   },
   {
-    "name":  "เต้าหู้ทรงเครื่อง",
+    "name": "เต้าหู้ทรงเครื่อง",
     "eng_name": "Deep Fried Tofu with Gravy Sauce",
     "rice": "not-contain",
     "meat": ["pork"],
@@ -100,11 +100,11 @@
     "green_level": "none",
     "contain-nut": "possible",
     "contain-milk": "possible",
-    "avg_calories": null,
-    "cuisine": "chinese"
+    "avg_calories": 394,
+    "cuisine": "Chinese"
   },
   {
-    "name":  "ต้มยำกุ้ง",
+    "name": "ต้มยำกุ้ง",
     "eng_name": "Hot and Sour Prawn Soup",
     "rice": "not-contain",
     "meat": ["prawn"],
@@ -113,12 +113,12 @@
     "green_level": "none",
     "contain-nut": "not-contain",
     "contain-milk": "contain",
-    "avg_calories": null,
-    "cuisine": "thai"
+    "avg_calories": 810,
+    "cuisine": "Thai"
   },
   {
-    "name":  "ไข่พะโล้",
-    "eng_name": "Thai Style Fragrant Eggs and Pork Chinese Five-Spice Stew",
+    "name": "ไข่พะโล้",
+    "eng_name": "Boiled eggs and pork stew in the sweet gravy",
     "rice": "not-contain",
     "meat": ["pork"],
     "spicy": false,
@@ -126,12 +126,12 @@
     "green_level": "none",
     "contain-nut": "not-contain",
     "contain-milk": "not-contain",
-    "avg_calories": null,
-    "cuisine": "chinese"
+    "avg_calories": 330,
+    "cuisine": "Chinese"
   },
   {
-    "name":  "ต้มยำปลากรอบ",
-    "eng_name": "Crispy Fish Soup",
+    "name": "ต้มยำปลากรอบ",
+    "eng_name": "Crispy Fish spicy Soup",
     "rice": "not-contain",
     "meat": ["fish"],
     "spicy": true,
@@ -139,24 +139,24 @@
     "green_level": "none",
     "contain-nut": "not-contain",
     "contain-milk": "contain",
-    "avg_calories": null,
-    "cuisine": "thai"
+    "avg_calories": 230,
+    "cuisine": "Thai"
   },
   {
-    "name":  "แกงจืดรวมมิตรทะเล",
+    "name": "แกงจืดรวมมิตรทะเล",
     "eng_name": "Seafood Clear Soup",
     "rice": "not-contain",
-    "meat": ["octopus","shrimp"],
+    "meat": ["octopus", "shrimp"],
     "spicy": false,
     "seafood": true,
     "green_level": "none",
     "contain-nut": "not-contain",
     "contain-milk": "not-contain",
-    "avg_calories": null,
-    "cuisine": "thai"
+    "avg_calories": 150,
+    "cuisine": "Thai"
   },
   {
-    "name":  "ข้าวต้มปลา",
+    "name": "ข้าวต้มปลา",
     "eng_name": "Porridge with fish",
     "rice": "contain",
     "meat": ["fish"],
@@ -165,11 +165,11 @@
     "green_level": "none",
     "contain-nut": "not-contain",
     "contain-milk": "not-contain",
-    "avg_calories": null,
-    "cuisine": "thai"
+    "avg_calories": 325,
+    "cuisine": "Thai"
   },
   {
-    "name":  "ยำปลาดุกฟู",
+    "name": "ยำปลาดุกฟู",
     "eng_name": "Spicy deep-fried catfish salad",
     "rice": "not-contain",
     "meat": ["catfish"],
@@ -178,11 +178,11 @@
     "green_level": "none",
     "contain-nut": "contain",
     "contain-milk": "not-contain",
-    "avg_calories": null,
-    "cuisine": "thai"
+    "avg_calories": 275,
+    "cuisine": "Thai"
   },
   {
-    "name":  "ทอดมันปลา",
+    "name": "ทอดมันปลา",
     "eng_name": "Curried fish cake",
     "rice": "not-contain",
     "meat": ["fish"],
@@ -191,11 +191,11 @@
     "green_level": "none",
     "contain-nut": "not-contain",
     "contain-milk": "possible",
-    "avg_calories": null,
-    "cuisine": "thai"
+    "avg_calories": 435,
+    "cuisine": "Thai"
   },
   {
-    "name":  "น้ำพริกอ่อง",
+    "name": "น้ำพริกอ่อง",
     "eng_name": "Spicy meat and tomato dip",
     "rice": "not-contain",
     "meat": ["pork"],
@@ -205,23 +205,23 @@
     "contain-nut": "not-contain",
     "contain-milk": "possible",
     "avg_calories": null,
-    "cuisine": "thai"
+    "cuisine": "Thai"
   },
   {
-    "name":  "ผัดผักบุ้งไฟแดง",
-    "eng_name": "Quick-fried water spinach seasoned with chili and soy sauce",
+    "name": "ผัดผักบุ้งไฟแดง",
+    "eng_name": "Stir fry chinese water spinach",
     "rice": "not-contain",
-    "meat": [""],
+    "meat": [],
     "spicy": true,
     "seafood": false,
     "green_level": "none",
     "contain-nut": "possible",
     "contain-milk": "not-contain",
-    "avg_calories": null,
-    "cuisine": "thai"
+    "avg_calories": 312,
+    "cuisine": "Chinese"
   },
   {
-    "name":  "หูฉลาม",
+    "name": "หูฉลาม",
     "eng_name": "Shark's fin",
     "rice": "not-contain",
     "meat": ["shark"],
@@ -230,11 +230,11 @@
     "green_level": "none",
     "contain-nut": "not-contain",
     "contain-milk": "not-contain",
-    "avg_calories": null,
-    "cuisine": "chinese"
+    "avg_calories": 46,
+    "cuisine": "Chinese"
   },
   {
-    "name":  "ขนมจีนน้ำยา",
+    "name": "ขนมจีนน้ำยา",
     "eng_name": "Rice noodles in fish curry sauce with vegetables",
     "rice": "not-contain",
     "meat": ["fish"],
@@ -243,11 +243,11 @@
     "green_level": "none",
     "contain-nut": "not-contain",
     "contain-milk": "contain",
-    "avg_calories": null,
-    "cuisine": "chinese"
+    "avg_calories": 280,
+    "cuisine": "Chinese"
   },
   {
-    "name":  "ห่อหมกปู",
+    "name": "ห่อหมกปู",
     "eng_name": "Streamed Crab Curry in a Banana Leaf Cup",
     "rice": "not-contain",
     "meat": ["crab"],
@@ -256,7 +256,59 @@
     "green_level": "none",
     "contain-nut": "not-contain",
     "contain-milk": "contain",
-    "avg_calories": null,
-    "cuisine": "chinese"
+    "avg_calories": 508,
+    "cuisine": "Chinese"
+  },
+  {
+    "name": "ข้าวผัดปู",
+    "eng_name": "Fried rice with crab",
+    "rice": "contain",
+    "meat": ["crab"],
+    "spicy": false,
+    "seafood": true,
+    "green_level": "none",
+    "contain-nut": "not-contain",
+    "contain-milk": "not-contain",
+    "avg_calories": 610,
+    "cuisine": "Thai"
+  },
+  {
+    "name": "ไข่เจียวปู",
+    "eng_name": "Crab omellete",
+    "rice": "not-contain",
+    "meat": ["crab"],
+    "spicy": false,
+    "seafood": true,
+    "green_level": "none",
+    "contain-nut": "not-contain",
+    "contain-milk": "contain",
+    "avg_calories": 445,
+    "cuisine": "Thai"
+  },
+  {
+    "name": "ปลากระพงทอดราดน้ำปลา",
+    "eng_name": "Fried Snapper topped with sweet sauce",
+    "rice": "not-contain",
+    "meat": ["Snapper fish"],
+    "spicy": false,
+    "seafood": true,
+    "green_level": "none",
+    "contain-nut": "not-contain",
+    "contain-milk": "contain",
+    "avg_calories": 230,
+    "cuisine": "Thai"
+  },
+  {
+    "name": "ต้มข่าไก่",
+    "eng_name": "Chicken Coconut Soup",
+    "rice": "not-contain",
+    "meat": ["Chicken"],
+    "spicy": false,
+    "seafood": true,
+    "green_level": "semi",
+    "contain-nut": "not-contain",
+    "contain-milk": "contain",
+    "avg_calories": 210,
+    "cuisine": "Thai"
   }
 ]
